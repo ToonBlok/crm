@@ -1,0 +1,221 @@
+c:\users\murat\documents\visual studio 2015\Projects\crm_systeem\crm_systeem\bin\Debug\crm_systeem.exe.config
+c:\users\murat\documents\visual studio 2015\Projects\crm_systeem\crm_systeem\bin\Debug\crm_systeem.exe
+c:\users\murat\documents\visual studio 2015\Projects\crm_systeem\crm_systeem\bin\Debug\crm_systeem.pdb
+c:\users\murat\documents\visual studio 2015\Projects\crm_systeem\crm_systeem\obj\Debug\crm_systeem.csprojResolveAssemblyReference.cache
+c:\users\murat\documents\visual studio 2015\Projects\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Properties.Resources.resources
+c:\users\murat\documents\visual studio 2015\Projects\crm_systeem\crm_systeem\obj\Debug\crm_systeem.csproj.GenerateResource.Cache
+c:\users\murat\documents\visual studio 2015\Projects\crm_systeem\crm_systeem\obj\Debug\crm_systeem.exe
+c:\users\murat\documents\visual studio 2015\Projects\crm_systeem\crm_systeem\obj\Debug\crm_systeem.pdb
+c:\users\murat\documents\visual studio 2015\Projects\crm_systeem\crm_systeem\bin\Debug\MySql.Data.dll
+c:\users\murat\documents\visual studio 2015\Projects\crm_systeem\crm_systeem\obj\Debug\crm_systeem.LoginScherm.resources
+C:\Users\Murat\documents\visual studio 2015\Projects\crm_systeem\crm_systeem\obj\Debug\crm_systeem.HoofdPagina.resources
+C:\Users\Murat\Documents\Visual Studio 2015\Projects\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.Registreren.resources
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_systeem\crm_systeem\bin\Debug\crm_systeem.exe.config
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_systeem\crm_systeem\obj\Debug\crm_systeem.exe
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_systeem\crm_systeem\obj\Debug\crm_systeem.pdb
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_systeem\crm_systeem\bin\Debug\crm_systeem.exe
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_systeem\crm_systeem\bin\Debug\crm_systeem.pdb
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_systeem\crm_systeem\bin\Debug\MySql.Data.dll
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_systeem\crm_systeem\obj\Debug\crm_systeem.csprojResolveAssemblyReference.cache
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Properties.Resources.resources
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_systeem\crm_systeem\obj\Debug\crm_systeem.csproj.GenerateResource.Cache
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_systeem\crm_systeem\obj\Debug\crm_systeem.LoginScreen.resources
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_systeem\crm_systeem\obj\Debug\crm_systeem.HomeScreen.resources
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.Registration.resources
+F:\ucod\upro\crm_systeem\crm_systeem\bin\Debug\crm_systeem.exe.config
+F:\ucod\upro\crm_systeem\crm_systeem\obj\Debug\crm_systeem.exe
+F:\ucod\upro\crm_systeem\crm_systeem\obj\Debug\crm_systeem.pdb
+F:\ucod\upro\crm_systeem\crm_systeem\obj\Debug\crm_systeem.csprojResolveAssemblyReference.cache
+F:\ucod\upro\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.AdminScreen.resources
+F:\ucod\upro\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.Registration.resources
+F:\ucod\upro\crm_systeem\crm_systeem\obj\Debug\crm_systeem.HomeScreen.resources
+F:\ucod\upro\crm_systeem\crm_systeem\obj\Debug\crm_systeem.LoginScreen.resources
+F:\ucod\upro\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Properties.Resources.resources
+F:\ucod\upro\crm_systeem\crm_systeem\obj\Debug\crm_systeem.csproj.GenerateResource.Cache
+F:\ucod\upro\crm_systeem\crm_systeem\bin\Debug\crm_systeem.exe
+F:\ucod\upro\crm_systeem\crm_systeem\bin\Debug\crm_systeem.pdb
+F:\ucod\upro\crm_systeem\crm_systeem\bin\Debug\MySql.Data.dll
+G:\ucod\upro\crm_systeem\crm_systeem\bin\Debug\crm_systeem.exe.config
+G:\ucod\upro\crm_systeem\crm_systeem\obj\Debug\crm_systeem.exe
+G:\ucod\upro\crm_systeem\crm_systeem\obj\Debug\crm_systeem.pdb
+G:\ucod\upro\crm_systeem\crm_systeem\bin\Debug\crm_systeem.exe
+G:\ucod\upro\crm_systeem\crm_systeem\bin\Debug\crm_systeem.pdb
+G:\ucod\upro\crm_systeem\crm_systeem\bin\Debug\MySql.Data.dll
+G:\ucod\upro\crm_systeem\crm_systeem\obj\Debug\crm_systeem.csprojResolveAssemblyReference.cache
+G:\ucod\upro\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.AdminScreen.resources
+G:\ucod\upro\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.Registration.resources
+G:\ucod\upro\crm_systeem\crm_systeem\obj\Debug\crm_systeem.HomeScreen.resources
+G:\ucod\upro\crm_systeem\crm_systeem\obj\Debug\crm_systeem.LoginScreen.resources
+G:\ucod\upro\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Properties.Resources.resources
+G:\ucod\upro\crm_systeem\crm_systeem\obj\Debug\crm_systeem.csproj.GenerateResource.Cache
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.AdminScreen.resources
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.Admin.AddUserScreen.resources
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\Crm_versions\0530_toocomplicated\crm_systeem\crm_systeem\bin\Debug\crm_systeem.exe.config
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\Crm_versions\0530_toocomplicated\crm_systeem\crm_systeem\obj\Debug\crm_systeem.exe
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\Crm_versions\0530_toocomplicated\crm_systeem\crm_systeem\obj\Debug\crm_systeem.pdb
+C:\Users\Decemius\Desktop\New folder\crm_systeem\crm_systeem\bin\Debug\crm_systeem.exe.config
+C:\Users\Decemius\Desktop\New folder\crm_systeem\crm_systeem\obj\Debug\crm_systeem.exe
+C:\Users\Decemius\Desktop\New folder\crm_systeem\crm_systeem\obj\Debug\crm_systeem.pdb
+C:\Users\Decemius\Desktop\New folder\crm_systeem\crm_systeem\obj\Debug\crm_systeem.csprojResolveAssemblyReference.cache
+C:\Users\Decemius\Desktop\New folder\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.Admin.AddUserScreen.resources
+C:\Users\Decemius\Desktop\New folder\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.AdminScreen.resources
+C:\Users\Decemius\Desktop\New folder\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.Registration.resources
+C:\Users\Decemius\Desktop\New folder\crm_systeem\crm_systeem\obj\Debug\crm_systeem.HomeScreen.resources
+C:\Users\Decemius\Desktop\New folder\crm_systeem\crm_systeem\obj\Debug\crm_systeem.LoginScreen.resources
+C:\Users\Decemius\Desktop\New folder\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Properties.Resources.resources
+C:\Users\Decemius\Desktop\New folder\crm_systeem\crm_systeem\obj\Debug\crm_systeem.csproj.GenerateResource.Cache
+C:\Users\Decemius\Desktop\New folder\crm_systeem\crm_systeem\bin\Debug\crm_systeem.exe
+C:\Users\Decemius\Desktop\New folder\crm_systeem\crm_systeem\bin\Debug\crm_systeem.pdb
+C:\Users\Decemius\Desktop\New folder\crm_systeem\crm_systeem\bin\Debug\MySql.Data.dll
+C:\Users\Andre\Desktop\crm_systeem\crm_systeem\bin\Debug\crm_systeem.exe.config
+C:\Users\Andre\Desktop\crm_systeem\crm_systeem\obj\Debug\crm_systeem.exe
+C:\Users\Andre\Desktop\crm_systeem\crm_systeem\obj\Debug\crm_systeem.pdb
+C:\Users\Andre\Desktop\crm_systeem\crm_systeem\bin\Debug\crm_systeem.exe
+C:\Users\Andre\Desktop\crm_systeem\crm_systeem\bin\Debug\crm_systeem.pdb
+C:\Users\Andre\Desktop\crm_systeem\crm_systeem\bin\Debug\MySql.Data.dll
+C:\Users\Andre\Desktop\crm_systeem\crm_systeem\obj\Debug\crm_systeem.csprojResolveAssemblyReference.cache
+C:\Users\Andre\Desktop\crm_systeem\crm_systeem\obj\Debug\crm_systeem.HomeScreen.resources
+C:\Users\Andre\Desktop\crm_systeem\crm_systeem\obj\Debug\crm_systeem.LoginScreen.resources
+C:\Users\Andre\Desktop\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Properties.Resources.resources
+C:\Users\Andre\Desktop\crm_systeem\crm_systeem\obj\Debug\crm_systeem.csproj.GenerateResource.Cache
+C:\Users\Murat\Documents\Visual Studio 2015\Projects\crm_systeemx\crm_systeem\bin\Debug\crm_systeem.exe.config
+C:\Users\Murat\Documents\Visual Studio 2015\Projects\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.exe
+C:\Users\Murat\Documents\Visual Studio 2015\Projects\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.pdb
+C:\Users\Murat\Documents\Visual Studio 2015\Projects\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.csprojResolveAssemblyReference.cache
+C:\Users\Murat\Documents\Visual Studio 2015\Projects\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.Forms.Admin.AddUserScreen.resources
+C:\Users\Murat\Documents\Visual Studio 2015\Projects\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.Forms.AdminScreen.resources
+C:\Users\Murat\Documents\Visual Studio 2015\Projects\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.Forms.Registration.resources
+C:\Users\Murat\Documents\Visual Studio 2015\Projects\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.HomeScreen.resources
+C:\Users\Murat\Documents\Visual Studio 2015\Projects\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.LoginScreen.resources
+C:\Users\Murat\Documents\Visual Studio 2015\Projects\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.Properties.Resources.resources
+C:\Users\Murat\Documents\Visual Studio 2015\Projects\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.csproj.GenerateResource.Cache
+C:\Users\Murat\Documents\Visual Studio 2015\Projects\crm_systeemx\crm_systeem\bin\Debug\crm_systeem.exe
+C:\Users\Murat\Documents\Visual Studio 2015\Projects\crm_systeemx\crm_systeem\bin\Debug\crm_systeem.pdb
+C:\Users\Murat\Documents\Visual Studio 2015\Projects\crm_systeemx\crm_systeem\bin\Debug\MySql.Data.dll
+C:\Users\Andre\Desktop\crm_systeemx\crm_systeem\bin\Debug\crm_systeem.exe.config
+C:\Users\Andre\Desktop\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.csprojResolveAssemblyReference.cache
+C:\Users\Andre\Desktop\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.Forms.Registration.resources
+C:\Users\Andre\Desktop\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.HomeScreen.resources
+C:\Users\Andre\Desktop\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.LoginScreen.resources
+C:\Users\Andre\Desktop\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.Properties.Resources.resources
+C:\Users\Andre\Desktop\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.csproj.GenerateResource.Cache
+C:\Users\Andre\Desktop\crm_systeemx\crm_systeem\bin\Debug\crm_systeem.exe
+C:\Users\Andre\Desktop\crm_systeemx\crm_systeem\bin\Debug\crm_systeem.pdb
+C:\Users\Andre\Desktop\crm_systeemx\crm_systeem\bin\Debug\MySql.Data.dll
+C:\Users\Andre\Desktop\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.PasswordChange.resources
+C:\Users\Andre\Desktop\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.ManageContactperson.resources
+C:\Users\Andre\Desktop\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.ManageContactpersonPeriod.resources
+C:\Users\Andre\Desktop\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.ManageUser.resources
+C:\Users\Andre\Desktop\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.ManageCompany.resources
+C:\Users\Andre\Desktop\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.exe
+C:\Users\Andre\Desktop\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.pdb
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_systeemx\crm_systeem\bin\Debug\crm_systeem.exe.config
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.exe
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.pdb
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_systeemx\crm_systeem\bin\Debug\crm_systeem.exe
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_systeemx\crm_systeem\bin\Debug\crm_systeem.pdb
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_systeemx\crm_systeem\bin\Debug\MySql.Data.dll
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.csprojResolveAssemblyReference.cache
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.PasswordChange.resources
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.ManageContactperson.resources
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.ManageContactpersonPeriod.resources
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.ManageUser.resources
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.ManageCompany.resources
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.Forms.Registration.resources
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.HomeScreen.resources
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.LoginScreen.resources
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.Properties.Resources.resources
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_systeemx\crm_systeem\obj\Debug\crm_systeem.csproj.GenerateResource.Cache
+C:\Users\Andre\Desktop\crm_systeems\crm_systeem\bin\Debug\crm_systeem.exe.config
+C:\Users\Andre\Desktop\crm_systeems\crm_systeem\obj\Debug\crm_systeem.exe
+C:\Users\Andre\Desktop\crm_systeems\crm_systeem\obj\Debug\crm_systeem.pdb
+C:\Users\Andre\Desktop\crm_systeems\crm_systeem\bin\Debug\crm_systeem.exe
+C:\Users\Andre\Desktop\crm_systeems\crm_systeem\bin\Debug\crm_systeem.pdb
+C:\Users\Andre\Desktop\crm_systeems\crm_systeem\bin\Debug\MySql.Data.dll
+C:\Users\Andre\Desktop\crm_systeems\crm_systeem\obj\Debug\crm_systeem.csprojResolveAssemblyReference.cache
+C:\Users\Andre\Desktop\crm_systeems\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.PasswordChange.resources
+C:\Users\Andre\Desktop\crm_systeems\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.ManageContactperson.resources
+C:\Users\Andre\Desktop\crm_systeems\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.ManageContactpersonPeriod.resources
+C:\Users\Andre\Desktop\crm_systeems\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.ManageUser.resources
+C:\Users\Andre\Desktop\crm_systeems\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.ManageCompany.resources
+C:\Users\Andre\Desktop\crm_systeems\crm_systeem\obj\Debug\crm_systeem.HomeScreen.resources
+C:\Users\Andre\Desktop\crm_systeems\crm_systeem\obj\Debug\crm_systeem.LoginScreen.resources
+C:\Users\Andre\Desktop\crm_systeems\crm_systeem\obj\Debug\crm_systeem.Properties.Resources.resources
+C:\Users\Andre\Desktop\crm_systeems\crm_systeem\obj\Debug\crm_systeem.csproj.GenerateResource.Cache
+C:\Users\Andre\Desktop\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.PasswordChange.resources
+C:\Users\Andre\Desktop\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.ManageContactperson.resources
+C:\Users\Andre\Desktop\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.ManageContactpersonPeriod.resources
+C:\Users\Andre\Desktop\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.ManageUser.resources
+C:\Users\Andre\Desktop\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.ManageCompany.resources
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_complete\crm_systeem\crm_systeem\bin\Debug\crm_systeem.exe.config
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.exe
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.pdb
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_complete\crm_systeem\crm_systeem\bin\Debug\crm_systeem.exe
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_complete\crm_systeem\crm_systeem\bin\Debug\crm_systeem.pdb
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_complete\crm_systeem\crm_systeem\bin\Debug\MySql.Data.dll
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.csprojResolveAssemblyReference.cache
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.PasswordChange.resources
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.ManageContactperson.resources
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.ManageContactpersonPeriod.resources
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.ManageUser.resources
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.ManageCompany.resources
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.HomeScreen.resources
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.LoginScreen.resources
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Properties.Resources.resources
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.csproj.GenerateResource.Cache
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\Crm\crm_complete\crm_systeem\crm_systeem\bin\Debug\crm_systeem.exe.config
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.exe
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.pdb
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\Crm\crm_complete\crm_systeem\crm_systeem\bin\Debug\crm_systeem.exe
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\Crm\crm_complete\crm_systeem\crm_systeem\bin\Debug\crm_systeem.pdb
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\Crm\crm_complete\crm_systeem\crm_systeem\bin\Debug\MySql.Data.dll
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.csprojResolveAssemblyReference.cache
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.PasswordChange.resources
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.ManageContactperson.resources
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.ManageContactpersonPeriod.resources
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.ManageUser.resources
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.ManageCompany.resources
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.HomeScreen.resources
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.LoginScreen.resources
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Properties.Resources.resources
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.csproj.GenerateResource.Cache
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\finished\Crm\crm_complete\crm_systeem\crm_systeem\bin\Debug\crm_systeem.exe.config
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\finished\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.exe
+C:\Users\Decemius\Documents\Visual Studio 2015\Projects\finished\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.pdb
+G:\programming\csharp\projects\1Library\finished\Crm\crm_complete\crm_systeem\crm_systeem\bin\Debug\crm_systeem.exe.config
+G:\programming\csharp\projects\1Library\finished\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.exe
+G:\programming\csharp\projects\1Library\finished\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.pdb
+G:\programming\csharp\projects\1Library\finished\Crm\crm_complete\crm_systeem\crm_systeem\bin\Debug\crm_systeem.exe
+G:\programming\csharp\projects\1Library\finished\Crm\crm_complete\crm_systeem\crm_systeem\bin\Debug\crm_systeem.pdb
+G:\programming\csharp\projects\1Library\finished\Crm\crm_complete\crm_systeem\crm_systeem\bin\Debug\MySql.Data.dll
+G:\programming\csharp\projects\1Library\finished\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.csprojResolveAssemblyReference.cache
+G:\programming\csharp\projects\1Library\finished\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.PasswordChange.resources
+G:\programming\csharp\projects\1Library\finished\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.ManageContactperson.resources
+G:\programming\csharp\projects\1Library\finished\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.ManageContactpersonPeriod.resources
+G:\programming\csharp\projects\1Library\finished\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.ManageUser.resources
+G:\programming\csharp\projects\1Library\finished\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.ManageCompany.resources
+G:\programming\csharp\projects\1Library\finished\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.HomeScreen.resources
+G:\programming\csharp\projects\1Library\finished\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.LoginScreen.resources
+G:\programming\csharp\projects\1Library\finished\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Properties.Resources.resources
+G:\programming\csharp\projects\1Library\finished\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.csproj.GenerateResource.Cache
+D:\programming\csharp\projects\1Library\finished\Crm\crm_complete\crm_systeem\crm_systeem\bin\Debug\crm_systeem.exe.config
+D:\programming\csharp\projects\1Library\finished\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.exe
+D:\programming\csharp\projects\1Library\finished\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.pdb
+D:\programming\csharp\projects\1Library\finished\Crm\crm_complete\crm_systeem\crm_systeem\bin\Debug\crm_systeem.exe
+D:\programming\csharp\projects\1Library\finished\Crm\crm_complete\crm_systeem\crm_systeem\bin\Debug\crm_systeem.pdb
+D:\programming\csharp\projects\1Library\finished\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.csprojResolveAssemblyReference.cache
+D:\programming\csharp\projects\1Library\finished\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.PasswordChange.resources
+D:\programming\csharp\projects\1Library\finished\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.ManageContactperson.resources
+D:\programming\csharp\projects\1Library\finished\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.ManageContactpersonPeriod.resources
+D:\programming\csharp\projects\1Library\finished\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.ManageUser.resources
+D:\programming\csharp\projects\1Library\finished\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Forms.Panels.ManageCompany.resources
+D:\programming\csharp\projects\1Library\finished\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.HomeScreen.resources
+D:\programming\csharp\projects\1Library\finished\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.LoginScreen.resources
+D:\programming\csharp\projects\1Library\finished\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.Properties.Resources.resources
+D:\programming\csharp\projects\1Library\finished\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.csproj.GenerateResource.Cache
+D:\programming\csharp\projects\dir_library\finished\Crm\crm_complete\crm_systeem\crm_systeem\bin\Debug\crm_systeem.exe.config
+D:\programming\csharp\projects\dir_library\finished\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.exe
+D:\programming\csharp\projects\dir_library\finished\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.pdb
+D:\programming\csharp\projects\dir\library\finished\Crm\crm_complete\crm_systeem\crm_systeem\bin\Debug\crm_systeem.exe.config
+D:\programming\csharp\projects\dir\library\finished\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.exe
+D:\programming\csharp\projects\dir\library\finished\Crm\crm_complete\crm_systeem\crm_systeem\obj\Debug\crm_systeem.pdb
